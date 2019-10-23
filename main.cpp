@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	Polynomial p1 {"4x^3 -6x^2 +2x -3"};
-	Polynomial p2 {"x + 2"};
+	Polynomial p2 {"x + 3"};
 
 	cout << "p1 =      " << p1 << endl;
 	cout << "p2 =      " << p2 << endl;
